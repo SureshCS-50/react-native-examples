@@ -1,5 +1,5 @@
 
-import React, { Component, View, Text, Image, TouchableOpacity, Navigator, StyleSheet } from 'react-native';
+import React, { Component } from 'react-native';
 
 import NavigationView from './features/navigation/NavigationView';
 
