@@ -18,8 +18,11 @@ A bunch of small and (hopefully) readable
 **Navigation (concepts and libraries)**
 
 * [201 Legacy Navigator](201 Legacy Navigator)
+* 202 Legacy Navigator with Autopilot
 * [211 Legacy NavigatorIOS](211 Legacy NavigatorIOS)
+* 212 Legacy NavigatorIOS with Autopilot
 * 221 ExNavigator
+* 222 ExNavigator with Autopilot
 * [231 Experimental Navigator](231 Experimental Navigator)
 
 **Scale the app structure with Redux & Co.**
