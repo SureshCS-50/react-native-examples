@@ -1,5 +1,5 @@
 
-import React, { Alert, Component, LayoutAnimation, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
+import React, { Component, LayoutAnimation, StyleSheet, Text, TouchableOpacity, View } from 'react-native';
 
 const styles = StyleSheet.create({
 	container: {
