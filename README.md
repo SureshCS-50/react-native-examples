@@ -3,10 +3,10 @@ A bunch of small and (hopefully) readable
 
 **Basics**
 
-* [101 Generated Project](101 Generated Project)
-* [102 Restructure Project](102 Restructure Project)
-* [103 Flexbox](103 Flexbox)
-* [104 Platform Switch](104 Platform Switch)
+* [100 Generated Project](100 Generated Project)
+* [101 Minimal Project](101 Minimal Project)
+* [102 Flexbox](102 Flexbox)
+* [103 Platform Switch](103 Platform Switch)
 * 105 UI Components
 * 106 Non-UI Modules
 * [111 ScrollView](111 ScrollView)
