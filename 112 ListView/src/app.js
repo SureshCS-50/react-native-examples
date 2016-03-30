@@ -18,7 +18,9 @@ const styles = StyleSheet.create({
 
 cities[0] = 'Vielvielvielvielvielvielvielvielzulangerstädtename';
 
-const cityDataSource = new ListView.DataSource({rowHasChanged: (r1, r2) => r1 !== r2});
+const cityDataSource = new ListView.DataSource({
+	rowHasChanged: (r1, r2) => r1 !== r2
+});
 
 export default class App extends Component {
 	constructor(props) {
