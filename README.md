@@ -1,4 +1,4 @@
-Contains a bunch of small and (hopefully) readable
+A bunch of small and (hopefully) readable
 [react-native](http://facebook.github.io/react-native/) examples:
 
 **Basics**
