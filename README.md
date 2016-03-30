@@ -1,5 +1,4 @@
-A bunch of small and (hopefully) readable
-[react-native](http://facebook.github.io/react-native/) examples:
+# A bunch of small and (hopefully) readable [react-native](http://facebook.github.io/react-native/) examples
 
 **Basics**
 
