@@ -19,7 +19,7 @@ const styles = StyleSheet.create({
 	}
 });
 
-cities[0] = 'Vielvielvielvielvielvielvielvielzulangerstädtename';
+cities[0] = 'A Vielvielvielvielvielvielvielvielzulangerstädtename';
 
 const sections = {};
 const mapping = {
