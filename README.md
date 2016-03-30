@@ -1,27 +1,50 @@
+Contains a bunch of small and (hopefully) readable
+[react-native](http://facebook.github.io/react-native/) examples:
 
-#### 101 Generated Project
+**Basics**
 
-Generated with `react-native init Tutorial`
+* [101 Generated Project](101 Generated Project)
+* [102 Restructure Project](102 Restructure Project)
+* [103 Flexbox](103 Flexbox)
+* [104 Platform Switch](104 Platform Switch)
+* 105 UI Components
+* 106 Non-UI Modules
+* [111 ScrollView](111 ScrollView)
+* [112 ListView](112 ListView)
+* [113 ListView with Sections](113 ListView with Sections)
+* [151 Layout Animations](151 Layout Animations)
+* [152 View Animations](152 View Animations)
 
-#### 102 Restructured Project
+**Navigation (concepts and libraries)**
 
-Moved the minimal example into the [src](102 Restructured Project/src) folder
-and load this "app root" in
-[index.android.js](102 Restructured Project/index.android.js)
-and [index.ios.js](102 Restructured Project/index.ios.js).
+* [201 Legacy Navigator](201 Legacy Navigator)
+* [202 Legacy NavigatorIOS](202 Legacy NavigatorIOS)
+* 211 ExNavigator
+* [221 Experimental Navigator](221 Experimental Navigator)
 
-#### 103 Flexbox
+**Scale the app structure with Redux & Co.**
 
-See [src/app.js](111 ScrollView/src/app.js)
+* [301 Redux](301 Redux)
+* [302 Redux with Persistance](302 Redux with Persistance)
 
-#### 104 Platform Switch
+**Improving the build infrastructure (type checks, linting, testing, ...)**
 
-See [src/*](111 ScrollView/src)
+* 401 Using Flow
+* 402 Using TypeScript
+* 411 Linting with ESLint
+* 421 Testing with Mocha
+* 431 Testing with Jest
+* 441 Testing with Enzyme
+* 501 Prepare a Release
+* 502 Fastlane Integration
+* 601 Custom UI Component
+* 602 Custom Non-UI Module
 
-#### 111 ScrollView
+<!-- later:
+**External libraries**
 
-See [src/app.js](111 ScrollView/src/app.js)
-
-#### 112 ListView
-
-See [src/app.js](112 ListView/src/app.js)
+* 801 react-native-scrollable-tab-view
+* 802 react-native-device example
+* 803 react-native-maps example
+* 804 react-native-safari-view example
+-->
