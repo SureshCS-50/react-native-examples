@@ -10,8 +10,8 @@ A bunch of small and (hopefully) readable
 * 105 UI Components
 * 106 Non-UI Modules
 * [111 ScrollView](111 ScrollView)
-* [112 ListView](112 ListView)
-* [113 ListView with Sections](113 ListView with Sections)
+* [121 ListView](121 ListView)
+* [122 ListView with Sections](122 ListView with Sections)
 * [151 Layout Animations](151 Layout Animations)
 * [152 View Animations](152 View Animations)
 
